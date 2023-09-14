@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Ziptree é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://moiseszip.github.io/ziptree)
+- Amplamente usado para organizar acessos como redes sociais, portfolio, contato, lojas e blogs online, etc.
 
 ## 🔖 Layout
 
